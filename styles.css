@@ -3,22 +3,23 @@ body {
     font-size: center;
     text-align: center;
     margin:150px auto;
+    color: aliceblue;
+    max-width: 500px;
+    border: 2px solid;
+    padding: 2rem;
+    border-radius: 10px;
 }
 
-h1 {
-    color: aliceblue;
-}
+
  div {
     color:aliceblue
  }
 
  button {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 13;
-    width: 165px;
-    height: 35px;
-    background-color: #0066b8;
-    padding: 9px 50px;
+    height: 2.3em;
+    width: 5.5em;
     border: none;
-    color: white;
+    color: black;
+    cursor: pointer;
+    border-radius: 3px;
  }
